@@ -1,9 +1,13 @@
+# Scripts
+*.sh
+scripts/
+
 # Prerequisites
 *.d
 
 # Object files
 *.o
-./src/*.o
+src/*.o
 *.ko
 *.obj
 *.elf
